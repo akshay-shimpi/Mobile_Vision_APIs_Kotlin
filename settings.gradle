@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Mobile_Vision_APIs_Kotlin'

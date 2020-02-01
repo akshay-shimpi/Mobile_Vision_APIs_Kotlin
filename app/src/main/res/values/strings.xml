@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mobile Vision Kotlin</string>
+    <string name="btnSelectImage">Select Image</string>
+</resources>
