@@ -4,8 +4,8 @@
 
 This project is a simple implementation of face detection using mobile vision API in android using kotlin.
 
-Note: The Mobile Vision API is now a part of ML_Kit.
+Note: The Mobile Vision API is now a part of firebase ML_Kit.
 
-ML Kit makes it easy to apply ML techniques in your apps. With ML Kit's face detection API, you can detect faces in an image, identify key facial features.
+firebase ML Kit makes it easy to apply ML techniques in your apps. With ML Kit's face detection API, you can detect faces in an image, identify key facial features.
 
 To discover more about firebase ML kit click on https://firebase.google.com/docs/ml-kit
